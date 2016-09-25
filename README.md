@@ -1,7 +1,7 @@
 # compuational_physics_N2014301020154
 Name:吴帆帆   student number:2014301020154
 - [x] [exercise_o1:](https://www.zybuluo.com/wudawufanfan/note/503853)
-- [ ] [exercise_o2:]()
+- [x] [exercise_o2:](https://www.zybuluo.com/wudawufanfan/note/512588)
 - [ ] [exercise_o3:]()
 - [ ] [exercise_o4:]()
 - [ ] [exercise_o5:]()
