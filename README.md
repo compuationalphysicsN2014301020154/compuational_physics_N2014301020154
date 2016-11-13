@@ -6,7 +6,7 @@ Name:吴帆帆   student number:2014301020154
 - [x] [exercise_o5:](https://www.zybuluo.com/wudawufanfan/note/533210)problem2.9
 - [x] [exercise_o6:](https://www.zybuluo.com/wudawufanfan/note/541296)
 - [x] [exercise_o7:](https://www.zybuluo.com/wudawufanfan/note/549284)
-- [ ] [exercise_o8:]()
+- [x] [exercise_o8:](https://www.zybuluo.com/wudawufanfan/note/564766)
 - [ ] [exercise_o9:]()
 - [ ] [exercise_10:]()
 - [ ] [exercise_11:]()
