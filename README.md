@@ -11,6 +11,6 @@ Name:吴帆帆   student number:2014301020154
 - [x] [exercise_10:](https://www.zybuluo.com/wudawufanfan/note/580365)
 - [x] [exercise_11:](https://www.zybuluo.com/wudawufanfan/note/588509)
 - [x] [exercise_12:](https://www.zybuluo.com/wudawufanfan/note/596967)
-- [ ] [exercise_13:]()
+- [x] [exercise_13:](https://www.zybuluo.com/wudawufanfan/note/603398)
 - [ ] [exercise_14:]()
 
